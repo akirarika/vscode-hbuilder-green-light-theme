@@ -1,6 +1,6 @@
 {
     "name": "vscode-hbuilder-green-light-theme",
-    "displayName": "Vscode Hbuilder Green Light Theme",
+    "displayName": "Hbuilder Green Light Theme",
     "description": "一款护眼主题，以 HBuilder 绿柔主题为基础",
     "version": "0.0.1",
     "publisher": "akirarika",
@@ -14,7 +14,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "akirarika",
+                "label": "Hbuilder Green Light Theme",
                 "uiTheme": "vs",
                 "path": "./themes/akirarika-color-theme.json"
             }
