@@ -2,7 +2,7 @@
     "name": "vscode-hbuilder-green-light-theme",
     "displayName": "Hbuilder Green Light Theme",
     "description": "一款护眼主题，以 HBuilder 绿柔主题为基础",
-    "version": "1.0.0",
+    "version": "5.2.0",
     "publisher": "akirarika",
     "repository": "https://github.com/akirarika/vscode-hbuilder-green-light-theme",
     "engines": {
